@@ -1,6 +1,3 @@
-/**
- * 获取queryString的所有key
- */
 type GetQueryKeys<S extends string, D = ''> = S extends `${infer T}=${any}`
   ? S extends `${string}&${infer P}`
     ? GetQueryKeys<P, D | T>
