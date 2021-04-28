@@ -1,6 +1,6 @@
 {
   "name": "url2json-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.d.ts",
   "repository": "https://github.com/Asarua/url2json-types.git",
   "license": "MIT",
