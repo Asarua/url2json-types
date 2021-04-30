@@ -36,7 +36,3 @@ type a = Url2Json<'baidu.com?a=1&b=2'>
 ## License
 
 [MIT](https://github.com/Asarua/url2json-types/blob/master/LICENSE)
-
-## Keywords
-
-`typescript` `url2json`
